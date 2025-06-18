@@ -45,9 +45,9 @@ Human Capital Management tool with performance tracking, internal process workfl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanescastro&show_icons=true&theme=github_dark&locale=en" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanescastro29&show_icons=true&theme=github_dark&locale=en" alt="GitHub stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescastro&layout=compact&theme=github_dark" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanescastro29&layout=compact&theme=github_dark" alt="Top languages" />
 </p>
 
 ---
